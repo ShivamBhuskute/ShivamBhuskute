@@ -5,7 +5,7 @@
 - 😄 Pronouns: He/him
 
 
-https://profile-counter.glitch.me/{ShivamBhuskute}/count.svg
+
 
 <!---
 ShivamBhuskute/ShivamBhuskute is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
