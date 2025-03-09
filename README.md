@@ -2,7 +2,6 @@
 - 👀 I’m interested in Web development, cyber security and systems programming 
 - 🌱 I’m currently learning MERN stack
 - 👯 I’m looking to collaborate on various innovative web projects
-- 😄 Pronouns: He/him
 
 
 
