@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @ShivamBhuskute
-- 👀 I’m interested in Web development, cyber security and systems programming 
-- 🌱 I’m currently learning MERN stack
-- 👯 I’m looking to collaborate on various innovative projects
-
+- 👀 I’m interested in **systems programming**, **cyber security**, and **web development**.
+- 💻 **Tech Stack:** I have strong practical experience with the **MERN stack** (**MongoDB, Express, React, Node.js**) and **AWS** for building modern web applications.
+- 🌱 I’m currently learning **advanced systems programming** in C, focusing on **operating system fundamentals** and building **low-level utilities**.
+- 👯 I’m looking to collaborate on innovative projects, especially those in **C/C++** related to systems, **robotics control**, embedded development, or **open-source initiatives**.
+- 💡 I’m highly interested in contributing to **open source** projects and learning from experienced developers.
 
 
 
